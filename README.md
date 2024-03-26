@@ -6,7 +6,7 @@ This SOC Automation project aimed to establish a controlled environment for simu
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
+- Advanced understanding of SIEM/SOAR concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
