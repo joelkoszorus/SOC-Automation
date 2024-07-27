@@ -18,7 +18,7 @@ This SOC Automation project aimed to establish a controlled environment for simu
 - Shuffle was utilized as my SOAR system used for automation and workflow management.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
+## Showcase
 
 *Ref 1: Network Diagram*
 ![SOC Automation Project](https://github.com/joelkoszorus/SOC-Automation/assets/160312879/e8aae391-71fb-4e4d-b244-6d9c339f75bb)
